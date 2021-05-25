@@ -31,5 +31,10 @@ namespace MyLogin_028
                 MessageBox.Show("Password Error");
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
